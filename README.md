@@ -1,2 +1,2 @@
-# Library-MVP
+# Bookstore-MVP
 Java CRUD application, MVP
